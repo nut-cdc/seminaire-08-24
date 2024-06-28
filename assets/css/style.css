@@ -1184,6 +1184,108 @@ section .container {
   color: #167EBD;
 }
 
+.portfolio a.portfolio-links-manoir, a.portfolio-details-lightbox-manoir {
+  font-weight: bold;
+  background-color: #5bd4d4;
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  -ms-border-radius: 0.5rem;
+  -o-border-radius: 0.5rem;
+}
+
+.portfolio a.portfolio-links-manoir:hover, a.portfolio-details-lightbox-manoir:hover {
+  background-color: white;
+  color: #39BBBA;
+}
+
+.portfolio a.portfolio-links-sophie, a.portfolio-details-lightbox-sophie {
+  font-weight: bold;
+  background-color: #f7d180;
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  -ms-border-radius: 0.5rem;
+  -o-border-radius: 0.5rem;
+}
+
+.portfolio a.portfolio-links-sophie:hover, a.portfolio-details-lightbox-sophie:hover {
+  background-color: white;
+  color: #fec850;
+}
+
+.portfolio a.portfolio-links-beauregard, a.portfolio-details-lightbox-beauregard {
+  font-weight: bold;
+  background-color: #afe0cc;
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  -ms-border-radius: 0.5rem;
+  -o-border-radius: 0.5rem;
+}
+
+.portfolio a.portfolio-links-beauregard:hover, a.portfolio-details-lightbox-beauregard:hover {
+  background-color: white;
+  color: #9CD0BA;
+}
+
+.portfolio a.portfolio-links-mer, a.portfolio-details-lightbox-mer {
+  font-weight: bold;
+  background-color: #e98482;
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  -ms-border-radius: 0.5rem;
+  -o-border-radius: 0.5rem;
+}
+
+.portfolio a.portfolio-links-mer:hover, a.portfolio-details-lightbox-mer:hover {
+  background-color: white;
+  color: #E46562;
+}
+
+.portfolio a.portfolio-links-peyragudes, a.portfolio-details-lightbox-peyragudes {
+  font-weight: bold;
+  background-color: #da9dc9;
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  -ms-border-radius: 0.5rem;
+  -o-border-radius: 0.5rem;
+}
+
+.portfolio a.portfolio-links-peyragudes:hover, a.portfolio-details-lightbox-peyragudes:hover {
+  background-color: white;
+  color: #CA8AB9;
+}
+
+.portfolio a.portfolio-links-chateaux, a.portfolio-details-lightbox-chateaux {
+  font-weight: bold;
+  background-color: #aad88d;
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  -ms-border-radius: 0.5rem;
+  -o-border-radius: 0.5rem;
+}
+
+.portfolio a.portfolio-links-chateaux:hover, a.portfolio-details-lightbox-chateaux:hover {
+  background-color: white;
+  color: #86be64;
+}
+
 .portfolio .portfolio-wrap:hover::before {
   top: 0;
   left: 0;
